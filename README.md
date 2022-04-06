@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Xavier Raspall
-[![Gmail Badge](https://img.shields.io/badge/-xaviraspall93@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xaviraspall93@gmail.com)](mailto:xaviraspall93@gmail.com) [![Github Badge](https://img.shields.io/badge/-xraspall-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xraspall/)](https://www.github.com/xraspall/)
+[![Gmail Badge](https://img.shields.io/badge/-xaviraspall93@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xaviraspall93@gmail.com)](mailto:xaviraspall93@gmail.com) [![Github Badge](https://img.shields.io/badge/-xraspall-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xraspall/)](https://www.github.com/xraspall/)[![Linkedin Badge](https://img.shields.io/badge/-Xavier-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/xavier-raspall-gonzalez-70a24381/)](https://www.linkedin.com/in/xavier-raspall-gonzalez-70a24381/)
 <p align='left'>I am a software developer with more than 6 years of experience in programming, <br> some of the programming languages ​​I use</p>
 
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
