@@ -15,7 +15,7 @@
 
 ## `$ whoami`
 
-Developer with **6+ years** building web applications and working across the full stack. Currently at [**CLiCKO Informática, Seguridad y Redes**](https://clicko.es) — an IT services company covering networking, security, and enterprise solutions in Catalonia.
+Developer with **10+ years** building web applications and working across the full stack. Currently at [**CLiCKO Informática, Seguridad y Redes**](https://clicko.es) — an IT services company covering networking, security, and enterprise solutions in Catalonia.
 
 I write clean backend logic, build interfaces that make sense, and keep things working reliably. When I'm not writing code I'm probably dealing with networks or figuring out why something broke in production.
 
@@ -57,10 +57,7 @@ I write clean backend logic, build interfaces that make sense, and keep things w
 ## `$ cat background.log`
 
 ```
-role        →  Full Stack Developer @ CLiCKO Informática, Seguridad y Redes
-education   →  IES Joaquim Mir (2013–2015)
-certs       →  SEO Técnico Especialista · Seeway
-               Angular.js · Code School
+role        →  Lead Full Stack Developer @ CLiCKO Informática, Seguridad y Redes
 languages   →  Català   — native
                Español  — native
                English  — professional working proficiency
@@ -70,7 +67,5 @@ location    →  Vilanova i la Geltrú · Catalonia · Spain
 ---
 
 <div align="center">
-
-*Got a project in mind? Let's talk.*
 
 </div>
